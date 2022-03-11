@@ -1,6 +1,6 @@
 # Parameter-Ind-Motor
 
-## Brief desccription
+## Description
 
 This consists of a MatLab function that is based on the work of M. H. Haque, in which he describes how to estimate the parameters of an induction motor based on the data sheet.
 
